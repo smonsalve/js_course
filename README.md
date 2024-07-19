@@ -1,6 +1,6 @@
 # js_course
 
-based on [this Udemy Course](udemy.com/course/the-complete-javascript-course)
+this is my study repo based on [this Udemy Course](udemy.com/course/the-complete-javascript-course)
 
 - Section 1: Welcome
 - Section 2: Fundamentals 1
